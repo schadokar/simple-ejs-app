@@ -2,6 +2,8 @@
 
 This is a simple app which has home, login, profile and logout routes.
 
+![](app-screenshot.PNG)
+
 The backend is in nodejs and expressjs.
 
 The frontend is in ejs template engine.
