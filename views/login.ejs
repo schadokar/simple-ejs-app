@@ -1,0 +1,28 @@
+<%- include('./partials/head')-%>
+
+<body class="container">
+  <%- include('./partials/header')-%>
+
+  <form>
+    <div class="text-center">
+      <input
+        type="email"
+        class="ghost-input"
+        id="exampleInputEmail1"
+        aria-describedby="emailHelp"
+        placeholder="Email Address"
+      />
+    </div>
+    <div class="text-center">
+      <input
+        type="password"
+        class="ghost-input"
+        id="exampleInputPassword1"
+        placeholder="Password"
+      />
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+  </form>
+
+  <%- include('./partials/footer')-%>
+</body>
