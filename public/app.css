@@ -36,13 +36,14 @@ header {
 }
 
 main {
-  padding-left: 200px;
-  margin-top: 50px;
+  margin-top: 10px;
+  text-align: center;
 }
 
 .app-footer {
-  position: fixed;
-  height: 100px;
+  font-size: medium;
+  height: 50px;
   bottom: 0;
-  width: 100%;
+  text-align: center;
+  padding-top: 20px;
 }
