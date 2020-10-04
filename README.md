@@ -10,6 +10,16 @@ The frontend is in ejs template engine.
 
 This project is scaffolding project which can be used as a template.
 
+> :warning: The Login details are not saving anywhere.
+
+# App setup
+
+- Install nodejs and npm in your machine if not installed.
+- Install dependencies `npm install`
+- Run the application `npm run start`
+
+Check the application at `localhost:3000` on browser.
+
 ## About me
 
 I am Shubham Chadokar and you can check my work [@schadokar](https://schadokar.dev).
